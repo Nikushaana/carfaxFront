@@ -9,7 +9,7 @@ import { VscSettings } from "react-icons/vsc";
 import LoaderCust from "../components/loader/LoaderCust";
 import { useRouter, useSearchParams } from "next/navigation";
 import DropDown2valueSearch from "../components/DropDowns/DropDown2valueSearch";
-import { BsTrash2 } from "react-icons/bs";
+import { BsTrash2 } from "react-icons/bs"; 
 import { FaTrashCan } from "react-icons/fa6";
 import ReactPaginate from "react-paginate";
 
